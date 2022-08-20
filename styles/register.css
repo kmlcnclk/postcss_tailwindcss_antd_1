@@ -1,0 +1,8 @@
+#register {
+  & .ant-form-item-feedback-icon {
+    @apply flex items-center justify-center;
+  }
+}
+.ant-picker-panels {
+  @apply flex-col;
+}

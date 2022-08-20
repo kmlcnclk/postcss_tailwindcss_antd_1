@@ -1,0 +1,14 @@
+/* :root { */
+  /* --main-color: #123456; */
+/* } */
+
+/* .asd {
+  & div {
+    & p {
+      &:hover {
+        background-color: var(--main-color);
+        @apply text-red-600 transition-colors duration-300 ;
+      }
+    }
+  }
+} */
